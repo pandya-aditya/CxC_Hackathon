@@ -1,5 +1,5 @@
-Flame Forecaster. 
-AI-driven Wildfire Prediction Project: Safeguarding Alberta by identifying vulnerabilities and forecasting wildfire severity.
+**Flame Forecaster. **
+**AI-driven Wildfire Prediction Project: Safeguarding Alberta by identifying vulnerabilities and forecasting wildfire severity.**
 
 Inspiration:
 Observing the recurring challenges posed by wildfires in Alberta, we were motivated to research and apply our knowledge on data-driven approaches to improve wildfire prediction and management.
